@@ -87,7 +87,7 @@ A guided flow that discovers all GitHub accounts in VS Code, lets you authentica
 
 **Windows (CMD / PowerShell):**
 ```bash
-curl -L https://github.com/Mr-Jackal/Copilot-Quota-Monitor/releases/download/v0.0.1/copilot-quota-monitor-0.0.1.vsix -o copilot-quota-monitor.vsix && code --install-extension copilot-quota-monitor.vsix && del copilot-quota-monitor.vsix
+curl -L https://github.com/github/copilot-quota-monitor/releases/download/v0.0.1/copilot-quota-monitor-0.0.1.vsix -o copilot-quota-monitor.vsix && code --install-extension copilot-quota-monitor.vsix && del copilot-quota-monitor.vsix
 ```
 
 **macOS / Linux:**
